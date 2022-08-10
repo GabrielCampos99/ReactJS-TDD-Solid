@@ -106,3 +106,7 @@ dist
 
 coverage
 public/js 
+
+
+public
+*.scss
